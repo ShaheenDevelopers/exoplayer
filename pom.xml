@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.exoplayer</groupId>
+    <artifactId>exoplayer</artifactId>
+    <version>2.11.4</version>
+    <packaging>aar</packaging>
+
+    <distributionManagement>
+        <repository>
+            <id>github-packages</id>
+            <url>https://raw.githubusercontent.com/ShaheenDevelopers/exoplayer/main</url>
+        </repository>
+    </distributionManagement>
+
+</project>
